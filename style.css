@@ -1,0 +1,49 @@
+table{
+    color:#ffffff;
+    text-align: center;
+    border-collapse: collapse;
+    font: nomal 3em Arial, Helvertica, sans-serif;
+}
+
+tr{
+    height: 16.02vh;
+    background-color: #0e0b0d;
+}
+
+td{
+    width: 25vw;
+    border: 1px solid hsl(320, 27%, 2%)
+}
+
+#inputBox{
+    background-color: #242324;
+    text-align: right;
+    width: 100%;
+    font-size: 5em;
+    color: #ffffff;
+    border: 0px;
+}
+
+.digitButton{
+    background-color: #1f92af;
+    font-size: 50;
+    font-family: monospace;
+}
+
+.operatorButton{
+    background-color: #ec08c6;
+      font-size: 50;
+    font-family: monospace;
+}
+
+.ACButton{
+    background-color: #0fd629;
+    font-size: 50;
+    font-family: monospace;
+}
+
+.percentageButton{
+      background-color: #1f92af;
+    font-size: 50;
+    font-family: monospace;
+}
